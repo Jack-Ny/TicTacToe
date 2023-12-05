@@ -19,4 +19,3 @@ To run this project locally, follow these steps:
    - Install dependancies : npm install
    - Start the Development Server : npm start
    - Access to the application : Open your web browser and visit http://localhost:3000 to play the game.
->>>>>>> 2e9d939e9fce7bb2908ef8ca55b0a961ccb50f20
